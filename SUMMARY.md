@@ -82,7 +82,6 @@
     * [3.Object类\(一\)](part-3/chapter-06/6-3.md)
     * [4.Object类\(二\)](part-3/chapter-06/6-4.md)
     * [5.继承与关联](part-3/chapter-06/6-5.md)
-    * [6.数组的声明与赋值](part-3/chapter-06/6-6.md)
   * [7.\(61-70\):数组、异常处理](part-3/chapter-07.md)
     * [1.数组的类型](part-3/chapter-07/7-1.md)
     * [2.对象型数组](part-3/chapter-07/7-2.md)
