@@ -52,7 +52,7 @@
     * [06.switch的变量类型](part-3/chapter-03/3-06.md)
     * [07.循环中的break和continue](part-3/chapter-03/3-07.md)
   * [4.\(28-40\):面向对象辨析](part-3/chapter-04.md)
-    * [01.引用类型值传递\(一\)](part-3/chapter-044/4-01.md)
+    * [01.引用类型值传递\(一\)](part-3/chapter-04/4-01.md)
     * [02.引用类型值传递\(二\)](part-3/chapter-04/4-02.md)
     * [03.基本数据类型值传递](part-3/chapter-04/4-03.md)
     * [04.static方法](part-3/chapter-04/4-04.md)
