@@ -77,7 +77,7 @@
     * [08.抽象方法](part-3/chapter-05/5-08.md)
     * [09.抽象类与抽象方法的关系](part-3/chapter-05/5-09.md)
     * [10.final类](part-3/chapter-05/5-10.md)
-    * [11.final方法](part-3/chapter-05/55-11.md)
+    * [11.final方法](part-3/chapter-05/5-11.md)
     * [12.Object类\(一\)](part-3/chapter-05/5-12.md)
     * [13.Object类\(二\)](part-3/chapter-05/5-13.md)
     * [14.继承与关联](part-3/chapter-05/5-14.md)
