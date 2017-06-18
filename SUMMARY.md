@@ -111,7 +111,7 @@
     * [14.throw与throws的应用](part-3/chapter-07/7-14.md)
     * [15.自定义异常](part-3/chapter-07/7-15.md)
     * [16.继承中的异常](part-3/chapter-07/7-16.md)
-  * [8.\(81-90\):集合](part-3/chapter-09.md)
+  * [8.\(81-90\):集合](part-3/chapter-08.md)
     * [01.Collection与Map](part-3/chapter-09/9-01.md)
     * [02.Collection与Collections的区别](part-3/chapter-09/9-02.md)
     * [03.Set与List的区别](part-3/chapter-09/9-03.md)
