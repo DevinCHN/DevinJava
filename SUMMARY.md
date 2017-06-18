@@ -105,7 +105,7 @@
     * [08.try、catch、finally\(一\)](part-3/chapter-07/7-08.md)
     * [09.try、catch、finally\(二\)](part-3/chapter-07/7-09.md)
     * [10.try、catch、finally\(三\)](part-3/chapter-07/7-10.md)
-    * [11.finally与return](part-3/chapter-077/7-11.md)
+    * [11.finally与return](part-3/chapter-07/7-11.md)
     * [12.throw与throws](part-3/chapter-07/7-12.md)
     * [13.异常只能被捕获一次](part-3/chapter-07/7-13.md)
     * [14.throw与throws的应用](part-3/chapter-07/7-14.md)
